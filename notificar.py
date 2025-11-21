@@ -28,8 +28,8 @@ class DummySecrets:
     @property
     def telegram(self):
         return type('Telegram', (object,), {
-            'token': '8286854492:AAGJSp_zQ5esM2a0d_T4ok01Ff2YuFEF6_U',
-            'chat_id': '-1003284500478'
+            'token':
+            'chat_id':
         })()
 
 
